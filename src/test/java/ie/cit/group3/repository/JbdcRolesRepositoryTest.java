@@ -20,7 +20,6 @@ import org.springframework.test.context.transaction.TransactionConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 /**
 * @author John Murphy
-* Student Id: R00131347
 * Date: 31st March 2015
 * 
 * This is the test class for JdbcRolesRepository class.

@@ -21,9 +21,8 @@ import ie.cit.group3.service.*;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
- * This is a modified version of the original main application program from Assignment 1.  It has been modified 
+ * This is a modified version of the original main application program.  It has been modified 
  * to take Constructor Dependency Injections for the repository access objects.
  * 
  * This class takes a directory path, scans its directory tree for Json files and captures the Json file name and

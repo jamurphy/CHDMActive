@@ -6,7 +6,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * Date: 31st March 2015
  * 
  * This class is used by JUnit test for application configuration.  

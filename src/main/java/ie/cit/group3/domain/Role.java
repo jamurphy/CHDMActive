@@ -3,7 +3,6 @@ package ie.cit.group3.domain;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * Date: 	31st March 2015
  * 
  * This class is used to store attributes about a Role that relates to Cultural Heritage Objects.

@@ -9,7 +9,6 @@ import org.springframework.jdbc.core.RowMapper;
 
 /**
  * @author John Murphy
- * Student ID: R00131347
  * Date: 	31 March 2015
  * 
  * This class provides the mapping from a SQL resultset to an object. It returns the populated object when complete. 

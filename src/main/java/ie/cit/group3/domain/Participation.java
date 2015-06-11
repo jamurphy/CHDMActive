@@ -4,7 +4,6 @@ import com.fasterxml.jackson.annotation.JsonUnwrapped;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * Date: 	31st March 2015
  * 
  * This class is used to capture the Participation associated with a Cultural Heritage Object.

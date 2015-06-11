@@ -14,7 +14,6 @@ import org.junit.Before;
 import org.junit.Test;
 /**
  * @author John Murphy
- * Student Id: R00131347
  * Date: 31st March 2015
  * 
  * This is the mockito test class used to test the ChObjectServiceImpl Service Layer class.

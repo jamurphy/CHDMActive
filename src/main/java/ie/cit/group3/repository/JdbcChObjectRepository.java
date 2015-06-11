@@ -13,7 +13,6 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This class implements the interface for ChObjectRepository
  * Activities it must implement are:

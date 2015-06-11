@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This class implements the interface for ImageService.  
  * 

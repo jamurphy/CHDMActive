@@ -8,7 +8,6 @@ import java.util.List;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This interface defines the contract/methods that a Participant can use on a Repository.
  * Activities are:

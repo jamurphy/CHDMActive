@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ie.cit.group3</groupId>
-	<artifactId>CooperHewittG3Web</artifactId>
+	<artifactId>activeProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
-	<name>CooperHewittG3Web</name>
+	<name>activeProject</name>
 	<description>Group 3 Project Cooper Hewitt</description>
 
 	<parent>
@@ -78,6 +78,12 @@
 		<groupId>com.fasterxml.jackson.core</groupId>
 		<artifactId>jackson-databind</artifactId>
 		</dependency>
+		
+		<dependency>
+	<groupId>xdoclet</groupId>
+	<artifactId>xdoclet-xdoclet-module</artifactId>
+	<version>1.2</version>
+</dependency>
 		
 			</dependencies>
 	

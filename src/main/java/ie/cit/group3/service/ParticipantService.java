@@ -7,7 +7,6 @@ import ie.cit.group3.utility.Page;
 import java.util.List;
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This interface defines the contract/methods that a Participant can use at the Service Layer.
  * Activities are:

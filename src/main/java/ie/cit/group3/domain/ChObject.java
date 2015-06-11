@@ -19,7 +19,6 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This class is used to store attributes of interest from the Cultural Heritage Objects JSON files.
  * Jackson automatically extracts the data from the Json file for the attributes listed below.

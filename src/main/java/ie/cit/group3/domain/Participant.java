@@ -4,7 +4,6 @@ package ie.cit.group3.domain;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * Date: 	31st March 2015
  * 
  * This class is used to store attributes about Participants that have associations with Cultural Heritage Objects.

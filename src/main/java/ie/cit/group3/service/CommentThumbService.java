@@ -4,7 +4,6 @@ import ie.cit.group3.entity.CommentThumb;
 
 /**
  * @author John Murphy
- * Student Id: R00131347
  * 
  * This interface defines the contract/methods that a CommentThumbService can use at the Service Layer.
  * Activities are:
